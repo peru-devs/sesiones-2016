@@ -5,3 +5,5 @@
 * [Juan Lopez Jorge](https://github.com/juanlopezdev)
 * [Luiscarlo](https://github.com/winuxue)
 * [Daniel](https://github.com/daguigonz)
+- [José Luis Quintana](https://github.com/webinar-domingo/sesiones-2016)
+
