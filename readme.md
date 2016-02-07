@@ -4,3 +4,4 @@
 ## Integrantes
 * [Juan Lopez Jorge](https://github.com/juanlopezdev)
 * [Luiscarlo](https://github.com/winuxue)
+* [Daniel](https://github.com/daguigonz)
