@@ -7,3 +7,5 @@
 * [Daniel](https://github.com/daguigonz)
 - [José Luis Quintana](https://github.com/webinar-domingo/sesiones-2016)
 
+## Horario
+Domingos 11:00 am, duración 60 minutos.
