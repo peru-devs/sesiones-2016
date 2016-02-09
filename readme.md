@@ -1,6 +1,8 @@
 # Sesiones TI 2016
 > Webinar sobre TI para el año 2016.
 
+![Sesiones TI 2016](https://pbs.twimg.com/media/CahC6RdW4AAxVrQ.jpg:small)
+
 ## Objetivo
 Debatir temas relacionados a las Tecnologías de la Información y al mismo tiempo compartir conocimiento.
 
