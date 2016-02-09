@@ -11,7 +11,7 @@ Debatir temas relacionados a las Tecnologías de la Información y al mismo tiem
 * [José Luis Quintana](https://github.com/joseluisq)
 
 ## Horario
-Domingos 11:00 a.m. -0500 UTC 
+Domingos 11:00 a.m. -0500 UTC
 
 ## Sesiones
 
@@ -43,6 +43,18 @@ Domingos 11:00 a.m. -0500 UTC
   * Pull
   * Checkout
   * `.gitignore`
+
+### Sesión 1
+**Fecha: 07/02/2016**
+
+* Introducción a GitHub — Collaboration Platform.
+* ¿Qué es GitHub?￼
+* ¿Por qué GitHub?
+* Introducción a la sintaxis Markdown.
+* Fork
+* Pull Request
+* Merge
+* Caso práctico sobre colaboración.
 
 ## Referencias
 * [Pro Git book en español](https://git-scm.com/book/es/v1)
