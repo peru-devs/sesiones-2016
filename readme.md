@@ -58,9 +58,19 @@ Domingos 11:00 a.m. -0500 UTC
 
 ### Sesión 3
 **Fecha: 14/02/2016**
+* Introducción a Gestores de Paquetes (Package Managers)
+* ¿Qué es NPM?￼
+* ¿Por qué NPM?
+* ¿Qué es Bower?￼
+* ¿Por qué Bower?
+* Instalación y desinstalación de paquetes.
+* Archivos de registro de paquetes `package.json` y `bower.json`.
+* Caso práctico.
 
 ## Referencias
 * [Pro Git book en español](https://git-scm.com/book/es/v1)
+* [NPM](https://www.npmjs.com/)
+* [Bower](https://www.bower.io/)
 
 ## Miscelánea
 ### Videos
