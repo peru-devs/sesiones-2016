@@ -44,7 +44,7 @@ Domingos 11:00 a.m. -0500 UTC
   * Checkout
   * `.gitignore`
 
-### Sesión 1
+### Sesión 2
 **Fecha: 07/02/2016**
 
 * Introducción a GitHub — Collaboration Platform.
@@ -55,6 +55,9 @@ Domingos 11:00 a.m. -0500 UTC
 * Pull Request
 * Merge
 * Caso práctico sobre colaboración.
+
+### Sesión 3
+**Fecha: 14/02/2016**
 
 ## Referencias
 * [Pro Git book en español](https://git-scm.com/book/es/v1)
