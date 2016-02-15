@@ -59,7 +59,7 @@ Domingos 11:00 a.m. -0500 UTC
 * Caso práctico sobre colaboración.
 
 ### Sesión 3
-**Fecha: 14/02/2016**
+**Fecha: 21/02/2016**
 * Introducción a Gestores de Paquetes (Package Managers)
 * ¿Qué es NPM?￼
 * ¿Por qué NPM?
@@ -72,7 +72,7 @@ Domingos 11:00 a.m. -0500 UTC
 ## Referencias
 * [Pro Git book en español](https://git-scm.com/book/es/v1)
 * [NPM](https://www.npmjs.com/)
-* [Bower](https://www.bower.io/)
+* [Bower](http://www.bower.io/)
 
 ## Miscelánea
 ### Videos
