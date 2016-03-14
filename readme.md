@@ -59,7 +59,7 @@ Domingos 11:00 a.m. -0500 UTC
 * Caso práctico sobre colaboración.
 
 ### Sesión 3
-**Fecha: 21/02/2016**
+**Fecha: 13/03/2016**
 * Introducción a Gestores de Paquetes (Package Managers)
 * ¿Qué es NPM?￼
 * ¿Por qué NPM?
@@ -68,6 +68,9 @@ Domingos 11:00 a.m. -0500 UTC
 * Instalación y desinstalación de paquetes.
 * Archivos de registro de paquetes `package.json` y `bower.json`.
 * Caso práctico.
+  * Creación de módulo NPM
+  * Uso de módulos de terceros.
+  * Simple Unit Testing con [Tape](https://github.com/substack/tape).
 
 ## Referencias
 * [Pro Git book en español](https://git-scm.com/book/es/v1)
