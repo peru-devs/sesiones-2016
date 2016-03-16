@@ -15,6 +15,10 @@ Debatir temas relacionados a las Tecnologías de la Información y al mismo tiem
 ## Horario
 Domingos 11:00 a.m. -0500 UTC
 
+## Miscelánea
+### Videos
+* [Frank bailando](https://www.facebook.com/groups/549989681795384/?fref=ts)
+
 ## Sesiones
 
 ### Sesión 1
@@ -46,6 +50,9 @@ Domingos 11:00 a.m. -0500 UTC
   * Checkout
   * `.gitignore`
 
+#### Referencias
+* [Pro Git book en español](https://git-scm.com/book/es/v1)
+
 ### Sesión 2
 **Fecha: 07/02/2016**
 
@@ -72,11 +79,42 @@ Domingos 11:00 a.m. -0500 UTC
   * Uso de módulos de terceros.
   * Simple Unit Testing con [Tape](https://github.com/substack/tape).
 
-## Referencias
-* [Pro Git book en español](https://git-scm.com/book/es/v1)
+#### Referencias
 * [NPM](https://www.npmjs.com/)
 * [Bower](http://www.bower.io/)
 
-## Miscelánea
-### Videos
-* [Frank bailando](https://www.facebook.com/groups/549989681795384/?fref=ts)
+### Sesión 4
+**Fecha: 20/03/2016**
++ Almacenamiento
+  - Introducción
+    * Unidades de Almacenamiento
+    * Volumenes Lógicos
+      + Particiones
+      + Gestion de Volumenes
+        - RAID
+        - LVM
+    * Sistemas de Archivos
++ Arquitecturas
+  - DAS
+  - NAS
+  - SAN
++ Sistemas de almacenamiento RAID
+  - Introduccion e importancia
+  - Tipos
+    * HW
+    * SW
+    * Híbrido
+  - Niveles
+    * Estandar
+      + 0
+      + 1
+      + 5
+    * Anidado
+      + 0+1
+      + 1+0
++ Caso Práctico
+  - Diagrama Raid (Papel)
+  - Particionamiento y configuración Raid (Debian)
++ Materiales
+  - [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Previamente Instalado)
+  - [Debian (ISO)](http://caesar.acc.umu.se/debian-cd/8.3.0/amd64/iso-cd/debian-8.3.0-amd64-netinst.iso)
